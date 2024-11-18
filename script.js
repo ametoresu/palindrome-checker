@@ -2,7 +2,6 @@ const checkButton = document.getElementById('check-btn');
 const textInput = document.getElementById('text-input');
 const resultContainer = document.getElementById('result');
 
-
 const checkPalindrome = userInput => {
   //raw user input
   const rawText = userInput;
