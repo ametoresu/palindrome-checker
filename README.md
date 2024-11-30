@@ -1,2 +1,2 @@
 # Palindrome Checker
-a simple palindrome checker I made as a part of freeCodeCamp's required Javascript projects.
+a tool to check if a given word is a palindrome.
